@@ -10,3 +10,10 @@ Lista de tarefas
 - [] teste
 - [] teste 
 - [] teste 
+
+num | nome | nota
+---|---|---
+1 | joão | 8,5
+
+ola `document.getElementById()` 
+ola como vai :hand:
